@@ -3,7 +3,7 @@ import requests
 MY_LAT = "18.520430"
 MY_LON = "73.856743"
 WEATHER_ENDPOINT = "https://api.openweathermap.org/data/2.5/forecast"
-API_KEY = "471ab42302e28c8d0dc5d96d1aa45142"
+API_KEY = "Your Own API"
 
 weather_params = {
     "lat": MY_LAT,
